@@ -236,7 +236,7 @@ The following screenshots demonstrate the successful execution and testing of th
 
 ## Author
 
-**Sumit Bhati**
+**Shahnawaz**
 
 BCA (AI & DS)
 Enrollment Number: 2501060223
